@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --red: #e3646e;
+  --purple: #bb72e9;
+  --blue: #3996db;
+  --green: #82bc4f;
+  --yellow: #eabd5f;
+  --gray-100: #e2e4e9;
+  --gray-200: #c0c4ce;
+  --gray-300: #878ea1;
+  --gray-400: #292c34;
+  --gray-500: #16181d;
+  --gray-600: #0d0e11;
+
+  --font-family-title: "Asap", sans-serif;
+  --font-family-subtitle: "Inconsolata", monospace;
+  --font-family-text: "Maven Pro", sans-serif;
+
+  --title-lg: 800 56px/120% var(--font-family-title);
+  --title-md: 800 24px/120% var(--font-family-title);
+  --title-sm: 800 16px/120% var(--font-family-title);
+  --subtitle: 400 20px/120% var(--font-family-subtitle);
+  --text: 400 16px/140% var(--font-family-text);
+  --text-sm: 400 14px/140% var(--font-family-text);
+}
+
+body {
+  color: var(--gray-200);
+  font: var(--text);
+  background-color: var(--gray-500);
+  font-optical-sizing: auto;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+h1,
+h2,
+h3 {
+  font: inherit;
+}
+
+.container {
+  max-width: 1366px;
+  margin-inline: auto;
+  padding-inline: 120px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.icon {
+  width: 24px;
+  aspect-ratio: 1/1;
+  mask-repeat: no-repeat;
+  mask-position: center;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  -webkit-mask-size: contain;
+}
+
+.section-display {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 56px;
+}
