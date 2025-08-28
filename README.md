@@ -15,14 +15,11 @@ Este repositório é meu **portfólio vivo**, onde treino ferramentas para mante
 
 ---
 
-## Pages
+## Pages - [Live link](https://pricbnll.github.io/portifolio-dev-pricbnll/)
 
 ![live](./assets/First%20page.png)
 
 ![image](./assets/media%20querie%20-%20iphone%20.png)
-
-[Live link](https://pricbnll.github.io/portifolio-dev-pricbnll/)
-
 
 ---
 
