@@ -17,9 +17,11 @@ Este repositório é meu **portfólio vivo**, onde treino ferramentas para mante
 
 ## Pages
 
-![image](./pri-cbnll/assets/First%20page.png)
+![live](./assets/First%20page.png)
 
-![image](./pri-cbnll/assets/media%20querie%20-%20iphone%20.png)
+![image](./assets/media%20querie%20-%20iphone%20.png)
+
+[Live link](https://pricbnll.github.io/portifolio-dev-pricbnll/)
 
 
 ---
